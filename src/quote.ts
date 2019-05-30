@@ -400,4 +400,9 @@ export const BuiltinQuotes: Array<Quote> = [
 		text: 'You only live once, but if you do it right, once is enough.',
 		source: 'Mae West',
 	},
+	{
+		id: 71,
+		text: 'A wise man will be master of his mind, a fool will be its slave.',
+		source: 'The Magic of Thinking Big',
+	},
 ];
